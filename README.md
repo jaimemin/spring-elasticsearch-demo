@@ -122,6 +122,8 @@ PUT _index_template/products_template
 * 데이터가 지속적으로 추가되거나 변경되는 환경을 대응하기 위해 동적 색인 구현
 * 1분 단위로 체크하여 새로운 데이터가 추가되었을 경우 새로운 데이터에 대해서만 색인 갱신
 
+---
+
 ## es-search-platform
 
 es-index-platform에서 색인한 데이터를 정제해서 rest api로 제공해주는 플랫폼
