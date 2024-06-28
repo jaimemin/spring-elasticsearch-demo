@@ -1,7 +1,7 @@
 logging:
   level:
     root: info
-    com.fastcampus.indexer: debug
+    com.tistory.jaimemin.indexer: debug
 
 spring:
   application:
